@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2233ea3a-7a26-478a-838e-fc6ea5ed5b3e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bOVF2rHDUX7VHvrjHkCcBJHz5H" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Scientific_Calculator/Calcu.py" />
+  </component>
+  <component name="RunManager">
+    <configuration name="studentMan" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="StudentManagement" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/studentMan.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.studentMan" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2233ea3a-7a26-478a-838e-fc6ea5ed5b3e" name="Default Changelist" comment="" />
+      <created>1588503019692</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588503019692</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="495" y="155" width="424" height="485" key="FileChooserDialogImpl" timestamp="1588503434883">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state x="495" y="155" width="424" height="485" key="FileChooserDialogImpl/59.27.1307.741@59.27.1307.741" timestamp="1588503434883" />
+    <state width="1284" height="215" key="GridCell.Tab.0.bottom" timestamp="1588605608218">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state width="1284" height="215" key="GridCell.Tab.0.bottom/59.27.1307.741@59.27.1307.741" timestamp="1588605608218" />
+    <state width="1284" height="215" key="GridCell.Tab.0.center" timestamp="1588605608210">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state width="1284" height="215" key="GridCell.Tab.0.center/59.27.1307.741@59.27.1307.741" timestamp="1588605608210" />
+    <state width="1284" height="215" key="GridCell.Tab.0.left" timestamp="1588605608209">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state width="1284" height="215" key="GridCell.Tab.0.left/59.27.1307.741@59.27.1307.741" timestamp="1588605608209" />
+    <state width="1284" height="215" key="GridCell.Tab.0.right" timestamp="1588605608216">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state width="1284" height="215" key="GridCell.Tab.0.right/59.27.1307.741@59.27.1307.741" timestamp="1588605608216" />
+    <state x="368" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1588688353027">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state x="368" y="225" key="com.intellij.ide.util.TipDialog/59.27.1307.741@59.27.1307.741" timestamp="1588688353027" />
+    <state x="375" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1588590447544">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state x="375" y="89" width="672" height="678" key="search.everywhere.popup/59.27.1307.741@59.27.1307.741" timestamp="1588590447543" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/studentMan.py</url>
+          <line>67</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/studentMan.py</url>
+          <line>100</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/studentMan.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
